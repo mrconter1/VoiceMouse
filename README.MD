@@ -1,12 +1,12 @@
-## VoiceMouse Controller
+## VoiceMouse
 
 ### Overview
 
-The "VoiceMouse Controller" is an Android app designed to allow users to control their mouse pointer on a Windows computer using their pitch to move the pointer along the X-axis and volume to move it along the Y-axis. This app provides an innovative way to interact with your computer, enhancing accessibility and offering a hands-free alternative to traditional mouse control.
+The "VoiceMouse" is an Android app designed to allow users to control their mouse pointer on a Windows computer using their pitch to move the pointer along the X-axis and volume to move it along the Y-axis. This app provides a way to interact with your computer, enhancing accessibility and offering a hands-free alternative to traditional mouse control.
 
 ### Goal
 
-The goal of this tool is to provide an intuitive and efficient way for users to control their computer mouse pointer using voice pitch and volume. By leveraging these audio cues, users can gain a new level of interaction with their computer, potentially benefiting those with physical disabilities or anyone looking for a novel way to control their mouse.
+The goal of this tool is to provide an funny way for users to control their computer mouse pointer using voice pitch and volume. By leveraging these audio cues, users can gain a new level of interaction with their computer, potentially benefiting those with physical disabilities or anyone looking for a novel way to control their mouse.
 
 ### Features
 
