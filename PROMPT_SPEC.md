@@ -1,6 +1,6 @@
 ## Prompt Specification
 
-This prompt specification is designed to be all that is needed to write the code for the "VoiceMouse Controller" project.
+This prompt specification is designed to be all that is needed to write the code for the "VoiceMouse" project.
 
 ### Project Goal
 
